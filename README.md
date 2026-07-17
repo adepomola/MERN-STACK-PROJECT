@@ -99,7 +99,7 @@ The deployment process involved:
 
 # Project Architecture
 
-```
+
 
 User
    │
