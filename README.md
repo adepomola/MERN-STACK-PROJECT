@@ -403,7 +403,7 @@ Git is the industry standard for version control and forms the foundation of CI/
 
 ### Screenshot
 
-![Git Installation](screenshots/12-Git-installation.png)
+![Git Installation](screenshots/12-git-installation.png)
 
 ---
 
@@ -430,7 +430,7 @@ Verification steps help prevent deployment failures caused by incomplete or inco
 
 ### Screenshot
 
-![Git Version Verification](screenshots/13-Git-version-verification.png)
+![Git Version Verification](screenshots/13-git-version-verification.png)
 
 ---
 
@@ -481,7 +481,7 @@ Using official software repositories ensures that applications receive stable re
 
 ### Screenshot
 
-![NodeSource Repository Setup](screenshots/15-NodeSource-Repository-Setup.png)
+![NodeSource Repository Setup](screenshots/15-Nodesource-Repository-Setup.png)
 
 ---
 
@@ -704,7 +704,7 @@ Verifying service status ensures that applications depending on background servi
 
 ### Screenshot
 
-![MongoDB Status](screenshots/23-MongoDB-status.png)
+![MongoDB Status](screenshots/23-MongoDB-Ststus.png)
 
 ---
 
@@ -731,7 +731,7 @@ Nginx is commonly used in production environments to improve application perform
 
 ### Screenshot
 
-![Nginx Installation](screenshots/24-Nginx-installation.png)
+![Nginx Installation](screenshots/24-Nginx-Installation.png)
 
 ---
 
@@ -758,7 +758,7 @@ Managing Linux services using `systemctl` is an essential skill for DevOps engin
 
 ### Screenshot
 
-![Start Nginx Service](screenshots/25-Nginx-start-service.png)
+![Start Nginx Service](screenshots/25-Nginx-Start-Service.png)
 
 ---
 
@@ -785,7 +785,7 @@ Automatically starting essential services improves server reliability and reduce
 
 ### Screenshot
 
-![Enable Nginx Service](screenshots/26-Nginx-enable-service.png)
+![Enable Nginx Service](screenshots/26-Nginx-Enable-Service.png)
 
 ---
 
@@ -812,7 +812,7 @@ Service verification helps prevent deployment failures by ensuring that critical
 
 ### Screenshot
 
-![Nginx Status](screenshots/27-Nginx-status.png)
+![Nginx Status](screenshots/27-Nginx-Status.png)
 
 ---
 # Step 28: Create the MERN Project Directory
@@ -867,7 +867,7 @@ Maintaining separate frontend and backend directories enables independent develo
 
 ### Screenshot
 
-![Backend Folder Creation](screenshots/29-Backend-folder-creation.png)
+![Backend Folder Creation](screenshots/29-Backend-Folder-Creation.png)
 
 ---
 
@@ -910,7 +910,7 @@ Managing application dependencies using NPM ensures consistent deployments acros
 
 ### Screenshot
 
-![Backend NPM Installation](screenshots/30-backend-npm-install.png)
+![Backend NPM Installation](screenshots/30-Backend-npm-init.png)
 
 ---
 
@@ -1047,9 +1047,9 @@ Testing backend endpoints before connecting the frontend helps isolate issues du
 
 API testing using command-line tools enables DevOps engineers to verify service availability and troubleshoot connectivity problems.
 
-### Screenshot
 
-![Backend Connectivity Test](screenshots/34-backend-connectivity-test.png)
+
+
 
 ---
 
@@ -1078,7 +1078,7 @@ Monitoring network ports helps identify configuration issues and confirms that d
 
 ### Screenshot
 
-![Port 5000 Verification](screenshots/35-Port-5000-Verification.png)
+![Port 5000 Verification](screenshots/35-port-5000-verification.png)
 
 ---
 # Step 36: Create the React Frontend Application
@@ -1169,7 +1169,7 @@ Verifying frontend deployment ensures users can successfully access the web appl
 
 ### Screenshot
 
-![React Localhost](screenshots/38-react-localhost.png)
+![React Localhost](screenshots/38-react-local-host.png)
 
 ---
 
@@ -1207,7 +1207,7 @@ Frontend and backend integration is essential in modern web application deployme
 
 ### Screenshot
 
-![App.js Updated](screenshots/39-App.js-updated.png)
+![App.js Updated](screenshots/39-App-js-updated.png)
 
 ---
 
@@ -1243,7 +1243,7 @@ Restarting services after configuration changes is a standard deployment practic
 
 ### Screenshot
 
-![React Restart](screenshots/40-React-Restart.png)
+![React Restart](screenshots/40-React-Restarted.png)
 
 ---
 
@@ -1270,7 +1270,7 @@ Verification ensures required infrastructure components are available before pro
 
 ### Screenshot
 
-![Nginx Installation Confirmation](screenshots/41-Nginx-Installation-Confirmation.png)
+![Nginx Installation Confirmation](screenshots/41-Nginx-Installation.png)
 
 ---
 
@@ -1305,7 +1305,7 @@ Monitoring running services ensures that multi-tier applications remain availabl
 
 ### Screenshot
 
-![Running Services](screenshots/42-running-services.png)
+![Running Services](screenshots/42-Nginx-Service-running.png)
 
 ---
 
@@ -1359,9 +1359,10 @@ Proper firewall configuration is a critical aspect of cloud security and applica
 
 ### Screenshot
 
-![Security Group Rules](screenshots/44-security-group-inbound-rules.png)
+![Security Group Rules](screenshots/44-security-inboard-rules.png)
 
 ---
+
 
 # Step 45: Verify the EC2 Public IP Address
 
