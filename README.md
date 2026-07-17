@@ -256,7 +256,7 @@ Monitoring instance health ensures infrastructure availability before software i
 
 ### Screenshot
 
-![EC2 Instance Running](screenshots/06-EC2-instance-RUNNING.png)
+![EC2 Instance Running](screenshots/06-EC2-inatance-RUNNING.png)
 
 ---
 
