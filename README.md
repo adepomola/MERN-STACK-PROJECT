@@ -22,32 +22,7 @@ The following sections document the complete deployment process of the MERN stac
 
 ---
 
-# Repository Structure
 
-```
-
-Critical-Thinking-MERN-Deployment/
-│
-├── README.md
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── node_modules/
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── public/
-│   └── package.json
-│
-└── screenshots/
-    ├── 01-AWS-Console-Home.png
-    ├── 02-EC2-Dashboard.png
-    ├── ...
-    └── 46-Backend-Server-Running.png
-    ```
----
 
 # Technologies Used
 
