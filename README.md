@@ -168,7 +168,7 @@ Cloud engineers and DevOps professionals use the AWS Management Console to provi
 
 ### Screenshot
 
-![AWS Console Home](screenshots/01-AWS-Console-Home.png)
+![AWS Console Home](screenshots/01-AWS-console-Home.png)
 
 ---
 
@@ -240,7 +240,7 @@ Provisioning cloud servers enables rapid deployment of applications while allowi
 
 ### Screenshot
 
-![EC2 Instance Launched](screenshots/05-EC2-Instance-LAUNCHED.png)
+![EC2 Instance Launched](screenshots/05-EC2-instance-LAUNCHED.png)
 
 ---
 
@@ -256,7 +256,7 @@ Monitoring instance health ensures infrastructure availability before software i
 
 ### Screenshot
 
-![EC2 Instance Running](screenshots/06-EC2-Instance-RUNNING.png)
+![EC2 Instance Running](screenshots/06-EC2-instance-RUNNING.png)
 
 ---
 
@@ -289,7 +289,7 @@ Linux command-line proficiency is an essential skill for DevOps engineers becaus
 
 ### Screenshot
 
-![Ubuntu Terminal Login](screenshots/08-Ubuntu-terminal-login.png)
+![Ubuntu Terminal Login](screenshots/08-Ubuntu-Terminal-login.png)
 
 ---
 
