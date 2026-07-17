@@ -910,7 +910,7 @@ Managing application dependencies using NPM ensures consistent deployments acros
 
 ### Screenshot
 
-![Backend NPM Installation](screenshots/30-Backend-npm-init.png)
+![Backend NPM Installation](screenshots/30-backend-npm-init.png)
 
 ---
 
